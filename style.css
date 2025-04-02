@@ -883,6 +883,18 @@ pre>strong{
          width: 55px;
          height: 55px;
      }
+
+     .Best_Appartment .content_Appartment_edge1{
+        width: 100%;
+        height: 95%;
+        margin-top: 20px;
+        font-size:1.3rem;
+      }
+
+      .content_Appartment_edge1 .gp_img{
+        width: 80%;
+      }
+
     
 }
   @media(max-width: 600px){
@@ -1006,8 +1018,13 @@ pre>strong{
 
       .content_Appartment_edge1 .gp_img{
         width: 80%;
+        
       }
-
+      .gp_img img{
+        width: 50%;
+        height: 10vh;
+      }
+      
       .view_Feeling {
         margin-top: 50px;
         height: 100vh;
