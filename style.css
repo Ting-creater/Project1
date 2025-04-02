@@ -358,7 +358,7 @@ pre>strong{
 
 .view_Feeling .img img {
     width: 100%; /* Make the image fill its container */
-    height: auto; /* Maintain aspect ratio */
+    /* height: auto; Maintain aspect ratio */
     border-radius: 15px;
 }
 
@@ -366,9 +366,9 @@ pre>strong{
 .content_1{
     
     width: 80%;
-    height: 150px;
+    height: 20vh;
     /* background-color: cadetblue; */
-    margin-top: 10%;
+    margin-top: 30%;
     margin: auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -1027,14 +1027,14 @@ pre>strong{
       
       .view_Feeling {
         margin-top: 50px;
-        height: 100vh;
+        height: 50vh;
         color: #fff; /* Fixed hex code */
         background-repeat: no-repeat;
         background-image: url(project01image/video-bg.jpg);
         text-align: center;
         position: relative;
         left: 5%;
-        /* background-color: #f35525; */
+        background-color: #f35525;
     }
     
 
@@ -1057,16 +1057,17 @@ pre>strong{
     
     .view_Feeling .img img {
         width: 100%; /* Make the image fill its container */
-        height: auto; /* Maintain aspect ratio */
+        height: 20%; /* Maintain aspect ratio */
         border-radius: 15px;
     }
     
     .content_1{
-       
+        /* margin-bottom: 5%; */
        height: 65vh;
        display: flex;
        display: grid;
        grid-template-columns: repeat(1,1fr);
+       margin-bottom: 100%;
        /* background-color: aquamarine; */
        
        
