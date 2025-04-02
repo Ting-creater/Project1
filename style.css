@@ -102,7 +102,7 @@ aside {
     display: grid;
     height: 100vh;
     position: relative;
-    background-image: url(copy1/project01image/copy1.png);
+    background-image: url(project01image/copy1.png);
     background-size: cover;
     background-position: center;
 }
@@ -166,15 +166,15 @@ section>.content>button{
 }
 
 #slide1{
-    background-image: url(copy1/project01image/copy1.png);
+    background-image: url(project01image/copy1.png);
     background-size: cover;
 }
 #slide2{
-    background-image: url(copy/project01image/copy.png);
+    background-image: url(project01image/image_copy.png);
     background-size: cover;
 }
 #slide3{
-    background-image: url(copy_2/project01image/copy_2.png);
+    background-image: url(project01image/image_copy_2.png);
     background-size: cover;
 }
 
@@ -331,7 +331,7 @@ pre>strong{
     height: 70vh;
     color: #fff; /* Fixed hex code */
     background-repeat: no-repeat;
-    background-image: url(video-bg/project01image/video-bg.jpg);
+    background-image: url(project01image/video-bg.jpg);
     text-align: center;
     position: relative;
     margin-left: 42px;
@@ -533,7 +533,7 @@ pre>strong{
         height: 50vh;
         color: #fff; /* Fixed hex code */
         background-repeat: no-repeat;
-        background-image: url(video-bg/project01image/video-bg.jpg);
+        background-image: url(project01image/video-bg.jpg);
         text-align: center;
         position: relative;
         margin-left: 0;
@@ -705,7 +705,7 @@ pre>strong{
         height: 50vh;
         color: #fff; /* Fixed hex code */
         background-repeat: no-repeat;
-        background-image: url(video-bg/project01image/video-bg.jpg);
+        background-image: url(project01image/video-bg.jpg);
         text-align: center;
         position: relative;
         margin-left: 0;
@@ -784,7 +784,7 @@ pre>strong{
         height: 50vh;
         color: #fff; /* Fixed hex code */
         background-repeat: no-repeat;
-        background-image: url(video-bg/project01image/video-bg.jpg);
+        background-image: url(project01image/video-bg.jpg);
         text-align: center;
         position: relative;
         margin-left: 0;
@@ -1013,7 +1013,7 @@ pre>strong{
         height: 100vh;
         color: #fff; /* Fixed hex code */
         background-repeat: no-repeat;
-        background-image: url(video-bg/project01image/video-bg.jpg);
+        background-image: url(project01image/video-bg.jpg);
         text-align: center;
         position: relative;
         left: 5%;
